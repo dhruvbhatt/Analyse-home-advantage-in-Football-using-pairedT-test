@@ -8,3 +8,9 @@ give calls in their favor. The main factors for home advantage were believed to 
 ![ASD](https://user-images.githubusercontent.com/63405689/137280658-f9bfb637-5fd2-4fb2-bbde-b73f7a79386e.JPG)
 
 The above table includes samples from the 19/20 and 20/21 season. 20/21 season had commenced behind closed doors and fans were not allowed in the stadiums due to COVID restrictions.19/20 season had no such lockdown restrictions and was played with fans in the stadium. Data taken from https://fbref.com/en/.
+
+`Null Hypothesis:` Lack of fans at home grounds had no effect on the results of the game.
+
+`Alternate Hypothesis:` Lack of home support post-covid lockdown, resulted in fewer home wins, and more upsets by away teams.
+
+![12](https://user-images.githubusercontent.com/63405689/137284741-bf27fd46-5786-48b7-a9f2-1129509bd4ad.JPG)
